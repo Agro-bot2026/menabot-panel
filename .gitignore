@@ -1,0 +1,7 @@
+backend/menabot.db
+backend/uploads/
+bot/auth_info/
+bot/node_modules/
+__pycache__/
+*.pyc
+.env
